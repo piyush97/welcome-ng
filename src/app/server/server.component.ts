@@ -10,4 +10,5 @@ export class ServerComponent {
   getServerStatus() {
     return this.serversStatus;
   }
+  onUpdateServer
 }
